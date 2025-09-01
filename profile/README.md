@@ -1,3 +1,3 @@
-## Biobank Norge 👋
+## Biobank Norge
 
 Files and resources for Biobank Norge projects. 
